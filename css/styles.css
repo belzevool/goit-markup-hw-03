@@ -256,7 +256,7 @@ color: #2e2f42;
     font-size: 36px;
     text-transform: capitalize;
     margin-bottom: 72px;
-    padding-top: 120px;
+    /* padding-top: 120px; */
 }
 .portfolio-list{
     display: flex;

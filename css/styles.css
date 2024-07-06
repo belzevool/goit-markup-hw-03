@@ -176,10 +176,10 @@ color: #2e2f42;
     overflow: hidden;
 }
 .about{
-    /* padding: 188px 0; */
+    padding: 120px 0;
 }
 .about-container{
-    padding: 120px 0;
+    /* padding: 120px 0; */
 }
 .about-list{
     display: flex;

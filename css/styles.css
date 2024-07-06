@@ -187,7 +187,7 @@ color: #2e2f42;
 }
 .about-item{
     width: calc((100% - 3 * 24px) / 4);
-    padding-top: 120px;
+    /* padding-top: 120px; */
 }
 .about-subtitle {
     font-weight: 500;

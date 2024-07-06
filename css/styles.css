@@ -48,11 +48,11 @@ img{
 .heder{
     /* border-bottom: 1px solid #e7e9fc; */
 }
-.page-heder{
-    /* border-bottom: 1px solid #e7e9fc; */
+.page-header{
+    border-bottom: 1px solid #e7e9fc;
 }
 .header-container{
-    border-bottom: 1px solid #e7e9fc;
+    /* border-bottom: 1px solid #e7e9fc; */
     display: flex;
     align-items: center;
 }
@@ -176,11 +176,10 @@ color: #2e2f42;
     overflow: hidden;
 }
 .about{
-    padding: 188px 0;
+    /* padding: 188px 0; */
 }
 .about-container{
-    /* padding-top: 120px;
-    padding-bottom: 120px; */
+    padding: 120px 0;
 }
 .about-list{
     display: flex;
